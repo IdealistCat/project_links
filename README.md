@@ -8,3 +8,7 @@ submodule folders for different stuff
 ## python
     py-insider - python insider project
     insiders - insiders project
+## youtube
+    git-assets - random yt stuff
+    stickshorts-assets - stick shorts series assets
+<!-- themissing-assets - assets for themissing series -->
