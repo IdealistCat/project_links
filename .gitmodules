@@ -1,0 +1,6 @@
+[submodule "draggingroup/site-indev"]
+	path = draggingroup/site-indev
+	url = https://github.com/IdealistCat/Site
+[submodule "draggingroup/site-public"]
+	path = draggingroup/site-public
+	url = https://github.com/DragginGroup/Site
