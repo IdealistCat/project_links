@@ -10,3 +10,9 @@
 [submodule "python/insiders"]
 	path = python/insiders
 	url = https://github.com/IdealistCat/Insiders
+[submodule "youtube/git-assets"]
+	path = youtube/git-assets
+	url = https://github.com/IdealistCat/git-assets
+[submodule "youtube/stickshorts-assets"]
+	path = youtube/stickshorts-assets
+	url = https://github.com/IdealistCat/stickShorts-assets
