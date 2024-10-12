@@ -16,3 +16,6 @@
 [submodule "youtube/stickshorts-assets"]
 	path = youtube/stickshorts-assets
 	url = https://github.com/IdealistCat/stickShorts-assets
+[submodule "games/school"]
+	path = games/school
+	url = https://github.com/IdealistCat/School

@@ -12,3 +12,5 @@ submodule folders for different stuff
     git-assets - random yt stuff
     stickshorts-assets - stick shorts series assets
 <!-- themissing-assets - assets for themissing series -->
+## games
+    school - bitsy game
