@@ -4,3 +4,9 @@
 [submodule "draggingroup/site-public"]
 	path = draggingroup/site-public
 	url = https://github.com/DragginGroup/Site
+[submodule "python/py-insider"]
+	path = python/py-insider
+	url = https://github.com/IdealistCat/Python-Insider
+[submodule "python/insiders"]
+	path = python/insiders
+	url = https://github.com/IdealistCat/Insiders
