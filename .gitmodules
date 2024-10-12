@@ -19,3 +19,6 @@
 [submodule "games/school"]
 	path = games/school
 	url = https://github.com/IdealistCat/School
+[submodule "youtube/themissing-assets"]
+	path = youtube/themissing-assets
+	url = https://github.com/IdealistCat/themissing.assets
