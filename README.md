@@ -11,6 +11,6 @@ submodule folders for different stuff
 ## youtube
     git-assets - random yt stuff
     stickshorts-assets - stick shorts series assets
-    TheMissinf - assets for themissing series
+    TheMissing - assets for themissing series
 ## games
     school - bitsy game
